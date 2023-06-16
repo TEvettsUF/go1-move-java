@@ -1,0 +1,16 @@
+{
+  "name:": "go1-js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specificed\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@droneblocks/go1-js": "^0.1.5"
+  }
+}
